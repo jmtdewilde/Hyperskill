@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/bot/SimpleBot.kt
+    visible: true
+    learner_created: false
+  - name: test/ChattyBotTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/126/stages/672/implement#comment
+status: Failed
+feedback:
+  message: Compilation Failed
+  time: "Fri, 23 Aug 2024 09:01:59 UTC"
+record: 4
